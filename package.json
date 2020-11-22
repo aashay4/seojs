@@ -1,0 +1,24 @@
+{
+  "name": "seojs",
+  "version": "1.0.2",
+  "description": "A node.js package to check SEO of websites built with Javascript front-end frameworks, Angular, React.js, Vue.js, Svelte, Ember.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seojs"
+  ],
+  "author": "Aasshey Triveddi",
+  "license": "ISC",
+  "homepage": "https://seojs.co/",
+  "dependencies": {
+    "async": "^3.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
+    "crawler": "^1.2.2",
+    "jsdom": "^16.4.0",
+    "request": "^2.88.2",
+    "simplecrawler": "^1.1.9"
+  }
+}
